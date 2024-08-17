@@ -6,11 +6,11 @@ This repository contains exploratory data analysis (EDA) performed on the TTC Su
 Objective: To explore and understand the patterns and characteristics of subway delays in Toronto's TTC system.
 
 ## Analysis Performed
-Data Cleaning: Processed and cleaned the dataset to handle missing values and inconsistencies.
-Descriptive Statistics: Calculated summary statistics to understand the distribution of delays and other features.
-Trend Analysis: Analyzed delays over time to identify peak periods and trends.
-Line and Station Analysis: Investigated delays by subway line and station to pinpoint areas with frequent disruptions.
-Delay Causes: Examined the reasons behind delays to identify common issues.
+1. Data Cleaning: Processed and cleaned the dataset to handle missing values and inconsistencies.
+2. Descriptive Statistics: Calculated summary statistics to understand the distribution of delays and other features.
+3. Trend Analysis: Analyzed delays over time to identify peak periods and trends.
+4. Line and Station Analysis: Investigated delays by subway line and station to pinpoint areas with frequent disruptions.
+5. Delay Causes: Examined the reasons behind delays to identify common issues.
 
 ## Files
 Data Science - EDA Challenge.ipynb: Jupyter Notebook containing the EDA, including data cleaning, analysis, and visualizations.
